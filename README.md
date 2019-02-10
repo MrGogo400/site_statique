@@ -8,7 +8,7 @@ La finalité de ce projet était de développer un outil permettant la conversio
 
 Voici les commandes disponibles :
 
--i ou --input-directory
+`-i` ou `--input-directory`
 
 ## Comment ça marche ?
 
@@ -21,6 +21,6 @@ Voici la commande a écrire :
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MTc0MzY0LDE0NzcwNDUyMzcsMTk2ND
-IzMDc1XX0=
+eyJoaXN0b3J5IjpbLTE1NzY5NzIyMjQsMTQ3NzA0NTIzNywxOT
+Y0MjMwNzVdfQ==
 -->
