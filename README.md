@@ -14,7 +14,7 @@ Voici les commandes disponibles :
 
 `-h` ou `--help`  affiche les aide pour les commandes.
 
-`-r` ou `--rainbow` transforme tout les texte en arc-en-ciel (Parce que c'est beau les arcs-en-ciel et même que des fois y'en a 2 en même temps on appel ça double rainbow)
+`-r` ou `--rainbow` transforme tout les texte en arc-en-ciel (Petite référence à )
 
 ## Comment ça marche ?
 
@@ -27,6 +27,6 @@ Voici la commande a écrire :
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU0MTE4OTksMTQ3NzA0NTIzNywxOT
-Y0MjMwNzVdfQ==
+eyJoaXN0b3J5IjpbLTIwODg4ODQ5NCwtMTM4NTQxMTg5OSwxND
+c3MDQ1MjM3LDE5NjQyMzA3NV19
 -->
