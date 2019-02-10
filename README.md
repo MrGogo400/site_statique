@@ -27,9 +27,14 @@ Voici la commande a écrire :
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output
 Ou
 
-    sitestatique.py -input-directory Chemin_du_dossier_input -outo Chemin_du_dossier_output
+    sitestatique.py -input-directory Chemin_du_dossier_input -output-directory Chemin_du_dossier_output
+Et pour avoir des beau arc-en-ciel il suffit de rajouter `-r` a la fin.
+
+Comme ceci : 
+
+    sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output -r
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg3ODIzMjIsLTEzODU0MTE4OTksMT
+eyJoaXN0b3J5IjpbLTE0NTk2ODA3MTksLTEzODU0MTE4OTksMT
 Q3NzA0NTIzNywxOTY0MjMwNzVdfQ==
 -->
