@@ -8,8 +8,8 @@ La finalité de ce projet était de développer un outil permettant la conversio
 
 Ce script est simple d'utilisation.
 
-Dans un terminal/CMD 
+Dans un terminal/CMD faite
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NjM4MDQsMTk2NDIzMDc1XX0=
+eyJoaXN0b3J5IjpbMTQ3NzA0NTIzNywxOTY0MjMwNzVdfQ==
 -->
