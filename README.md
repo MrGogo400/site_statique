@@ -1,5 +1,11 @@
 # Projet générateur de site statique
 
+## Installation avec pip
+
+Le package étant disponible sur la plateforme pypi.org il est donc possible d'installer ce script avec pip :
+
+pip install Markdown2H
+
 ## Présentation du projet.
 
 La finalité de ce projet était de développer un outil permettant la conversion de fichiers markdown en fichiers HTML.
@@ -42,6 +48,7 @@ Comme ceci :
 
 (Parce que tout le monde le sait c'est ça être un vrai H4x0R)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDk3MjM4MCwxNzExNDY2NjM3LC0xMz
-g1NDExODk5LDE0NzcwNDUyMzcsMTk2NDIzMDc1XX0=
+eyJoaXN0b3J5IjpbLTEzMzAxNDMxOTEsLTYxMDk3MjM4MCwxNz
+ExNDY2NjM3LC0xMzg1NDExODk5LDE0NzcwNDUyMzcsMTk2NDIz
+MDc1XX0=
 -->
