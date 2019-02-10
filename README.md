@@ -10,7 +10,11 @@ Voici les commandes disponibles :
 
 `-i` ou `--input-directory` accompagné du chemin vers le dossier où se trouvent les fichiers .md à convertir.
 
-`-o` ou `--output-directory`  accompagné tu chemin vers le dossier où vous avez choisie de mettre les 
+`-o` ou `--output-directory`  accompagné tu chemin vers le dossier où vous avez choisie de mettre les fichiers converties en .html
+
+`-h` ou `--help`  affiche les aide pour les commandes.
+
+`-r` ou `--rainbow` transforme tout les texte en arc-en-cie
 
 ## Comment ça marche ?
 
@@ -23,6 +27,6 @@ Voici la commande a écrire :
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTg3NTkxNywxNDc3MDQ1MjM3LDE5Nj
+eyJoaXN0b3J5IjpbMTYzNjQzNjcxOSwxNDc3MDQ1MjM3LDE5Nj
 QyMzA3NV19
 -->
