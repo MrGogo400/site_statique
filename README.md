@@ -8,8 +8,11 @@ La finalité de ce projet était de développer un outil permettant la conversio
 
 Ce script est simple d'utilisation.
 
-Dans un terminal/CMD faite
+Dans un terminal/CMD rendez vous dans le dossier ou ce trouve `sitestatique.py`
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzA0NTIzNywxOTY0MjMwNzVdfQ==
+eyJoaXN0b3J5IjpbMTI5MTAzMzUzNiwxNDc3MDQ1MjM3LDE5Nj
+QyMzA3NV19
 -->
