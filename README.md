@@ -8,7 +8,9 @@ La finalité de ce projet était de développer un outil permettant la conversio
 
 Voici les commandes disponibles :
 
-`-i` ou `--input-directory` accompagné du chemin vers le dossier ou 
+`-i` ou `--input-directory` accompagné du chemin vers le dossier où se trouvent les fichiers .md à convertir.
+
+`-o` ou `--output-directory`  accompagné tu chemin vers le dossier où vous avez choisie de mettre les 
 
 ## Comment ça marche ?
 
@@ -21,6 +23,6 @@ Voici la commande a écrire :
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzQwMjE4MywxNDc3MDQ1MjM3LDE5Nj
+eyJoaXN0b3J5IjpbMjAyOTg3NTkxNywxNDc3MDQ1MjM3LDE5Nj
 QyMzA3NV19
 -->
