@@ -36,7 +36,12 @@ Comme ceci :
 
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output -r
 
+### Maintenant vous pouvez faire semblant d'être un hacker en modifiant des # en balise HTML
+
+![enter image description here](https://i.imgur.com/ye5udHZ.gif)
+
+(Pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTQ2NjYzNywtMTM4NTQxMTg5OSwxND
-c3MDQ1MjM3LDE5NjQyMzA3NV19
+eyJoaXN0b3J5IjpbMTY1MDc4NDY3NiwxNzExNDY2NjM3LC0xMz
+g1NDExODk5LDE0NzcwNDUyMzcsMTk2NDIzMDc1XX0=
 -->
