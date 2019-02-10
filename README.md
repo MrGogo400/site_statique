@@ -4,7 +4,9 @@
 
 Le package étant disponible sur la plateforme pypi.org il est donc possible d'installer ce script avec pip :
 
-pip install Markdown2H
+    pip install Markdown2Html-French
+
+Lien vers le package : https://pypi.org/project/Markdown2Html-French/
 
 ## Présentation du projet.
 
@@ -48,7 +50,7 @@ Comme ceci :
 
 (Parce que tout le monde le sait c'est ça être un vrai H4x0R)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAxNDMxOTEsLTYxMDk3MjM4MCwxNz
-ExNDY2NjM3LC0xMzg1NDExODk5LDE0NzcwNDUyMzcsMTk2NDIz
-MDc1XX0=
+eyJoaXN0b3J5IjpbNzIwODEzNzA2LC02MTA5NzIzODAsMTcxMT
+Q2NjYzNywtMTM4NTQxMTg5OSwxNDc3MDQ1MjM3LDE5NjQyMzA3
+NV19
 -->
