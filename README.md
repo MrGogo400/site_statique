@@ -36,12 +36,12 @@ Comme ceci :
 
     sitestatique.py -i Chemin_du_dossier_input -o Chemin_du_dossier_output -r
 
-### Maintenant vous pouvez faire semblant d'être un hacker en modifiant des # en balise HTML
+### Maintenant vous pouvez faire semblant d'être un H4k3r en modifiant des # en balise HTML
 
 ![enter image description here](https://i.imgur.com/ye5udHZ.gif)
 
-(Pa
+(Parce que tout le monde le sait c'est ça être un vrai H4x0R)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDc4NDY3NiwxNzExNDY2NjM3LC0xMz
+eyJoaXN0b3J5IjpbLTYxMDk3MjM4MCwxNzExNDY2NjM3LC0xMz
 g1NDExODk5LDE0NzcwNDUyMzcsMTk2NDIzMDc1XX0=
 -->
